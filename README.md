@@ -1,2 +1,3 @@
 # Shortcuts
-Apple Shortcut Development 
+Apple Shortcuts - Custom Shortcut Creations
+
